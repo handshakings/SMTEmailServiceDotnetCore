@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f9841f3-4df2-4e9a-a89e-b2bfd4980270": {
+      "ProjectGuid": "8f9841f3-4df2-4e9a-a89e-b2bfd4980270",
+      "DisplayName": "SMTPEmailService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
